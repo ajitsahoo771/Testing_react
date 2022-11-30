@@ -1,4 +1,5 @@
 version: 1
+appRoot: src/App
 frontend:
   phases:
     preBuild:
